@@ -10,7 +10,7 @@ Objectives:
 * help develop memorization tactics to support success across subjects
 
 
-FLASH CARD DESCRIPTION OF HOW IT'LL BE DESIGNED:
+FLASH CARD DESCRIPTION OF HOW IT WILL BE DESIGNED:
 
 Cake - Image
 
